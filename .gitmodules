@@ -1,0 +1,6 @@
+[submodule "/Users/hiro/dotfiles/oh-my-zsh"]
+	path = /Users/hiro/dotfiles/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "oh-my-zsh-powerline-theme"]
+	path = oh-my-zsh-powerline-theme
+	url = git@github.com:jeremyFreeAgent/oh-my-zsh-powerline-theme.git
