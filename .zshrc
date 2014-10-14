@@ -84,3 +84,11 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 POWERLINE_HIDE_HOST_NAME="true"
 POWERLINE_HIDE_GIT_PROMPT_STATUS="true"
 POWERLINE_SHOW_GIT_ON_RIGHT="true"
+POWERLINE_FULL_CURRENT_PATH="true"
+
+#=============================
+# source zsh-syntax-highlighting
+#=============================
+if [ -f ~/dotfiles/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]; then
+  source ~/dotfiles/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+fi
